@@ -1,0 +1,48 @@
+﻿'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'D:\interface\3d scanner client\bin\Debug\_3DScanner.vshost.exe'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\WindowsFormsIntegration\v4.0_4.0.0.0__31bf3856ad364e35\WindowsFormsIntegration.dll'
+The thread 'vshost.NotifyLoad' (0xac) has exited with code 0 (0x0).
+The thread '<No Name>' (0x1604) has exited with code 0 (0x0).
+The thread 'vshost.LoadReference' (0x16a4) has exited with code 0 (0x0).
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'D:\interface\3d scanner client\bin\Debug\_3DScanner.exe', Symbols loaded.
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'
+Step into: Stepping over method without symbols '_3DScanner.Client.App.App'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'D:\interface\3d scanner client\bin\Debug\RibbonControlsLibrary.dll', Symbols loaded.
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'D:\interface\3d scanner client\bin\Debug\OpenTK.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'D:\interface\3d scanner client\bin\Debug\OpenTK.GLControl.dll'
+A first chance exception of type 'System.DllNotFoundException' occurred in OpenTK.dll
+A first chance exception of type 'System.TypeInitializationException' occurred in OpenTK.dll
+A first chance exception of type 'System.DllNotFoundException' occurred in OpenTK.dll
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'D:\interface\3d scanner client\bin\Debug\Microsoft.Windows.Shell.dll', Symbols loaded.
+A first chance exception of type 'System.IO.FileNotFoundException' occurred in mscorlib.dll
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Classic\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Classic.dll'
+'_3DScanner.vshost.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'
+Right down
+Right up
+Right down
+Right up
+Right down
+Right up
+Right down
+Right up
+The thread 'vshost.RunParkingWindow' (0x14cc) has exited with code 0 (0x0).
+The thread '<No Name>' (0x1490) has exited with code 0 (0x0).
+The program '[5400] _3DScanner.vshost.exe: Program Trace' has exited with code 0 (0x0).
+The program '[5400] _3DScanner.vshost.exe: Managed (v4.0.30319)' has exited with code 0 (0x0).
